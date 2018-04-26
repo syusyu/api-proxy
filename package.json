@@ -1,0 +1,15 @@
+{
+  "name": "api-proxy",
+  "version": "1.0.0",
+  "description": "Proxy server to access APIs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Okabe",
+  "license": "ISC",
+  "dependencies": {
+    "request": "*",
+    "express": "^4.16.3"
+  }
+}
